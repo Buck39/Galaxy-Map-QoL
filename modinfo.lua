@@ -44,7 +44,7 @@ meta =
     --      {id = "OptionalMod", min = "0.2", optional = true}, -- we support OptionalMod optionally, starting at version 0.2
     -- },
     dependencies = {
-        {id = "1722652757", min = "0.1.0"},
+        {id = "AzimuthLib", min = "0.1.0"},
         {id = "Avorion", min = "2.4.3", max = "*"}
     },
 
